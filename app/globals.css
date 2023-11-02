@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+  scroll-behavior: smooth;
+}
+body {
+  overflow: hidden;
+}
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -37,4 +44,17 @@ body {
 .image_gallery .big {
   grid-column: span 2;
   grid-row: 2;
+}
+
+canvas {
+  width: 100vw;
+  position: fixed;
+  z-index: -1;
+}
+.pt-10 {
+  padding-top: 160px;
+}
+.py-10 {
+  padding-top: 160px;
+  position: sticky;
 }

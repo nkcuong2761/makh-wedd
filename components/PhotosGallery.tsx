@@ -51,11 +51,7 @@ const PhotosGallery = () => {
             </h2>
             <div className=" pt-5 xl:pt-10">
               <div className=" w-36 block mx-auto">
-                <Image
-                  src={Characters}
-                  alt="hero image"
-                  className=" w-full block mx-auto h-full object-cover "
-                />
+
               </div>
             </div>
           </div>
