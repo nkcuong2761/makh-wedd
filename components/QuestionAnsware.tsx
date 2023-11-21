@@ -10,35 +10,32 @@ const QuestionAnsware = () => {
         <div className=" max-w-[670px] space-y-5 mx-auto px-2">
           <div>
             <h3 className="text-[2.2rem]  font-black xl:text-[4rem] text-center font-poppinss text-skin-darkbrown-50">
-              This is a question?
+              Where and when?
             </h3>
             <p className=" text-center text-[1rem]  font-poppinss text-skin-darkbrown-800 font-normal">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy
-              text ever since the 1500s, when an unknown printer took a galley
-              of type.
+            Date: Sunday, December 24, 2023<br></br>
+
+            Time: 11:00am<br></br>
+
+            Location:<br></br>
+            Trong Dong Linh Dam<br></br>
+            Hanoi, Vietnam<br></br>
             </p>
           </div>
           <div>
             <h3 className="text-[2.2rem] font-black  xl:text-[4rem] text-center font-poppinss text-skin-darkbrown-50">
-              This is a question?
+              How did we meet?
             </h3>
             <p className=" text-center text-[1rem]  font-poppinss text-skin-darkbrown-800 font-normal">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy
-              text ever since the 1500s, when an unknown printer took a galley
-              of type.
+              We met 8 years ago and became close friends in high school. Until one day, we came to a realization we're meant for each other? And started planning our whole lives together in 3 hours. Ask us for more details ;)
             </p>
           </div>
           <div>
             <h3 className="text-[2.2rem] font-black  xl:text-[4rem] text-center font-poppinss text-skin-darkbrown-50">
-              This is a question?
+              What else to do?
             </h3>
             <p className=" text-center text-[1rem]  font-poppinss text-skin-darkbrown-800 font-normal">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry&apos;s standard dummy
-              text ever since the 1500s, when an unknown printer took a galley
-              of type.
+              If you're wondering what to do in Hanoi, a street food tour is highly recommended.  Bun cha, pho, rolled cake, green sticky rice.. are must-try dishes. Explore Hoan Kiem Lake, the Temple of Literature, Ho Chi Minh Mausoleum, Dong Xuan market or wander around Hanoi Old Quarter. And more!
             </p>
           </div>
         </div>

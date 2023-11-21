@@ -50,7 +50,7 @@ const Hero = () => {
               <p className="text-[1rem] pb-2 lg:text-[2rem] text-skin-darkbrown-800 font-poppinss font-normal">
                 Friends and families must come ヾ(・ω・*)
               </p>
-              <button className=" inline-flex items-center gap-1 rounded-full bg-skin-darkbrown-900 py-2.5 text-white font-bold text-[1.6rem] transition-all duration-300 hover:bg-skin-darkbrown-300 px-5">
+              <Link href={"https://forms.gle/2KpSLSf5VcuvZ4ja8"}><button className=" inline-flex items-center gap-1 rounded-full bg-skin-darkbrown-900 py-2.5 text-white font-bold text-[1.6rem] transition-all duration-300 hover:bg-skin-darkbrown-300 px-5">
                 RSVP
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -74,7 +74,7 @@ const Hero = () => {
                     strokeLinejoin="round"
                   />
                 </svg>
-              </button>
+              </button></Link>
               <div className=" pt-5">
                 
               </div>
