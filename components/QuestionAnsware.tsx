@@ -27,7 +27,7 @@ const QuestionAnsware = () => {
               How did we meet?
             </h3>
             <p className=" text-center text-[1rem]  font-poppinss text-skin-darkbrown-800 font-normal">
-              We met 8 years ago and became close friends in high school. Until one day, we came to a realization we're meant for each other? And started planning our whole lives together in 3 hours. Ask us for more details ;)
+              We met 8 years ago and became close friends in high school. Until one day, we came to a realization we&apos;re meant for each other? And started planning our whole lives together in 3 hours. Ask us for more details ;)
             </p>
           </div>
           <div>
@@ -35,7 +35,7 @@ const QuestionAnsware = () => {
               What else to do?
             </h3>
             <p className=" text-center text-[1rem]  font-poppinss text-skin-darkbrown-800 font-normal">
-              If you're wondering what to do in Hanoi, a street food tour is highly recommended.  Bun cha, pho, rolled cake, green sticky rice.. are must-try dishes. Explore Hoan Kiem Lake, the Temple of Literature, Ho Chi Minh Mausoleum, Dong Xuan market or wander around Hanoi Old Quarter. And more!
+              If you&apos;re wondering what to do in Hanoi, a street food tour is highly recommended.  Bun cha, pho, rolled cake, green sticky rice.. are must-try dishes. Explore Hoan Kiem Lake, the Temple of Literature, Ho Chi Minh Mausoleum, Dong Xuan market or wander around Hanoi Old Quarter. And more!
             </p>
           </div>
         </div>
